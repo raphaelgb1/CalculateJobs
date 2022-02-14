@@ -24,4 +24,4 @@ server.use(routes);
 
 
 //CONECTANDO O SERVER
-server.listen(3000, () => console.log('rodando'));
+server.listen(3000, () => console.log('Servidor rodando'));
